@@ -1,0 +1,14 @@
+codext==1.5.5
+numpy==1.18.4
+pandas==1.1.4
+matplotlib==3.3.2
+scikit-image==0.17.2
+Pillow==7.2.0
+requests==2.23.0
+pycryptodome==3.9.8
+pyffx==0.3.0
+scikit-learn==0.23.2
+Faker==2.0.5
+pydbgen==1.0.5
+phe==1.4.0
+jupyterlab==2.2.8
