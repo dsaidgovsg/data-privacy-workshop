@@ -29,17 +29,6 @@ If you use pip, you can install it with:
 pip install jupyterlab
 ```
 
-## How to download notebook and data into local storage
-
-### Using git clone (**Note**: git must be already installed on your machine)
-1. go to the directory path you want to download to
-2. run command `git clone https://github.com/dsaidgovsg/data-privacy-workshop.git`
-
-### Via github website
-1. go to https://github.com/dsaidgovsg/data-privacy-workshop
-2. click on `code` -> `download zip`
-3. extract the downloaded zip into your desired directory path
-
 ## How to install dependencies
 1. go to the directory which you have downloaded the files
 2. open terminal/powershell at directory `<your download path>`/Jupyter notebook/
