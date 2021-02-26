@@ -35,7 +35,7 @@ pip install jupyterlab
 3. execute `pip install -r requirements.txt`
 
 ## How to start jupyter notebook
-1. open terminal/powershell at directory <your download path>/Jupyter notebook/
+1. open terminal/powershell at directory `<your download path>`/Jupyter notebook/
 2. execute `jupyter notebook`
 3. on jupyter web application, open file `Data Privacy Sharing - Practical Algorithms - Exercise.ipynb` by clicking on it
 
