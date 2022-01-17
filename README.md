@@ -69,7 +69,7 @@ If you use conda, you can install it with:
 ```
 conda install -c conda-forge jupyterlab
 ```
---
+
 ### (2) Downloading workshop materials and data into local storage
 
 #### Using git clone (**Note**: git must be already installed on your machine)
@@ -83,13 +83,13 @@ conda install -c conda-forge jupyterlab
 2. click on `code` -> `download zip`
 3. extract the downloaded zip into your desired directory path
 
---
+
 ### (3) Installing python dependencies
 1. go to the directory which you have downloaded the files
 2. open terminal/powershell at directory `<your download path>`
 3. execute `pip install -r requirements.txt`
 
---
+
 ### (4) How to start jupyter notebook
 1. open terminal/powershell at directory `<your download path>`/workshop/
 2. execute `jupyter notebook`
