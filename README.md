@@ -56,7 +56,7 @@ If you use pip, you can install it with:
 pip install jupyterlab
 ```
 
-OR
+**OR**
 
 1. Using Anaconda
 * Go to https://docs.anaconda.com/anaconda/install/
@@ -69,31 +69,33 @@ If you use conda, you can install it with:
 ```
 conda install -c conda-forge jupyterlab
 ```
-
+--
 ### (2) Downloading workshop materials and data into local storage
 
 #### Using git clone (**Note**: git must be already installed on your machine)
 1. go to the directory path you want to download to
 2. run command `git clone https://github.com/dsaidgovsg/data-privacy-workshop.git`
 
-OR
+**OR**
 
 #### Via github website
 1. go to https://github.com/dsaidgovsg/data-privacy-workshop
 2. click on `code` -> `download zip`
 3. extract the downloaded zip into your desired directory path
 
-
+--
 ### (3) Installing python dependencies
 1. go to the directory which you have downloaded the files
 2. open terminal/powershell at directory `<your download path>`
 3. execute `pip install -r requirements.txt`
 
-## (4) How to start jupyter notebook
+--
+### (4) How to start jupyter notebook
 1. open terminal/powershell at directory `<your download path>`/workshop/
 2. execute `jupyter notebook`
 3. on Jupyter web application, open the respective files required during the Workshop by clicking on it
 
+---
 
 ## Contributors
 Main: @dsaid-xj, @syah-ri, @ameeraadam, @tangalan
