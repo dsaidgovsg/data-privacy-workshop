@@ -7,39 +7,6 @@ In the workshop, there will be case studies and hands on python coding to famili
 
 Participants are assumed to have some knowledge on basic python programming and have some experience working with data.
 
-
-## Agenda
-
-### Introduction (26 January 2022 2-3pm): Alan
-
-**Context – why is privacy important?**
-
-* What is data privacy? 
-  * Common definitions and frameworks
-  * Data privacy vs data security 
-
-* Privacy landscape in Singapore 
-  * PDPA 
-  * PSDSRC – privacy-related measures 
-  * IM8
-  * Public sector Data Protection Review Committee, 
-
-* PP-Tech Overview 
-  * Data anon, FL, homomorphic, DP, SMPC, ZKP, synthetic data
-  * Pros, Cons, sample use cases 
-* Kahoot Quiz
-
-### Hands-On (26 January 2022 3:30-5:30pm): Syahri & Ameera
-* Workshop Background & Setting Up
-* Hashing
-* Tokenisation
-* Field Level Encryption
-* Generating Synthetic data
-* K-anonymity 
-* Conclusion
-
----
-
 ## Quickstart Guide
 The workshop will be conducted using Jupyter Notebook, follow the instructions below and ensure that you have all the required libraries installed for a smooth-sailing workshop :)!
 
