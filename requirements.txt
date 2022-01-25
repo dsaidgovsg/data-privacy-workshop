@@ -1,5 +1,5 @@
 codext==1.5.5
-numpy==1.18.4
+numpy==1.21.0
 pandas==1.1.4
 matplotlib==3.3.2
 scikit-image==0.17.2
